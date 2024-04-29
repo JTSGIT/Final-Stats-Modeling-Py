@@ -1,0 +1,3 @@
+SELECT s.*, b.rental_name, b.rental_lat, b.rental_lon, b.rental_address
+FROM stations s
+LEFT JOIN bike_rentals b

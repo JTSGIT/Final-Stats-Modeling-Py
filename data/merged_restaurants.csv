@@ -1,0 +1,101 @@
+Name,Rating_yelp,Location,latitude,longitude,Rating_foursquare
+Orient Express Cocktail Bar,5.0,"Carrer del Comte d'Urgell, 134",41.385068,2.15498,
+Ginette,5.0,"Carrer del Rec Comtal, 12",41.38956,2.1798099,
+Pasticelía,5.0,"Carrer de París, 165",41.39229,2.15129,
+Itacate,5.0,"Carrer de Comte Borrell, 107",41.3798,2.15922,
+Stop & Mos,5.0,"Carrer de los Castillejos, 158",41.4009578,2.1861613,
+Somnia,5.0,"Calle Montserrat, 13",41.37713,2.17506,
+Nomm,5.0,"Avinguda del Paraŀlel, 130",41.37516,2.1614399,
+La Catalista,5.0,"Carrer dels Carders, 11",41.38613,2.17998,
+Bicnic,5.0,"Carrer de Girona, 68",41.394863,2.1712607,
+Obsessions,5.0,"Carrer Nou de la Rambla, 149",41.3727303,2.16781,
+El Desván,5.0,"Gran Via de les Corts Catalanes, 453",41.379211,2.154061,
+El Bar del Basko,5.0,"Carrer de Guitert, 19",41.379494,2.190613,
+Pizzeria Carla,5.0,"Carrer de Sicília, 117",41.3967893785501,2.17977493907759,
+Zed,5.0,"Carrer de València, 399",41.40128,2.17457,
+Casa Mariol,5.0,"Carrer del Rosellón, 442",41.4071487,2.175912,
+Rekons,5.0,"Carrer de Blai, 48",41.37421,2.16323,
+Fruit Express,5.0,"Carrer de la Mercé, 8",41.379203226585,2.17919612657055,
+Greco's of Brooklyn,5.0,"Carrer de Mallorca, 308",41.39719,2.16719,
+Copitas,5.0,"Carrer del Rosselló, 473",41.40701,2.1752064,
+Cal Robert,5.0,"Carrer de Requesens, 7",41.379588,2.163892,
+The Coffee House,5.0,"Carrer de València, 143",41.38727,2.15592,
+Sergi de Meià,5.0,Carrer laForja 83,41.3903936,2.1568674,
+Bodega,5.0,"Carrer dels Mirallers, 15",41.38381587,2.18163391,
+Espai Quera Llibres i platillos,5.0,"Carrer de Petritxol, 2",41.38252,2.17342,
+Madame George,5.0,"Carrer de Pujades, 179",41.40206,2.20104,
+Can Sardi,5.0,"Carrer de Pepe Rubianes, 25",41.37864,2.19053,
+Raffaelli,5.0,"Carrer de Luis Antúnez, 11",41.39819,2.15505,
+La Tartareria,5.0,"Carrer de Muntaner, 26",41.38537,2.16123,
+Makekosa,5.0,"Carrer de Floridablanca, 102",41.3795870007068,2.16014217585325,
+Mastica,5.0,"Carrer del Carme, 40",41.38196,2.16963,
+Efsane Istanbul,5.0,"Av. del Paraŀlel, 91",41.3748063381395,2.16490477321486,
+El Barón,5.0,"Carrer Correu Vell, 10",41.38172,2.17983,
+Quixote,5.0,"Carrer del Consell de Cent, 314",41.391758,2.166739,
+Miseria e Nobilta,5.0,"Carrer de Besalú, 46",41.4140811275411,2.18415934592485,
+Flax & Kale,5.0,"Carrer de Sant Pere Més Alt, 31-33",41.38841,2.17657,
+La Bodegueta de Verdaguer,5.0,"Carrer de Provença, 366",41.3997192,2.1682701,
+Imperfecto36,5.0,"Carrer de la Mercè, 36",41.38082,2.18089,
+Taitu,5.0,"Carrer Nou de la Rambla, 149",41.3726889978646,2.16787733137608,
+Kiltro,5.0,"Carrer del Montseny, 13",41.40181,2.15445,
+Gastro Burger,5.0,"Carrer Mestre Candi, 1",41.36212,2.10853,
+Roux Bar,5.0,"Carrer del Consell de Cent, 140",41.38189,2.15365,
+Dalston Coffee,5.0,"Carrer de les Ramelleres, 16",41.3845503115756,2.168644,
+Don Picantón,5.0,"Carrer Sardenya, 74",41.39194,2.18864,
+Lilith & Sons,5.0,"Carrer d'En Fontrodona, 23",41.37311,2.16706,
+Sabor de Chengdu,5.0,"Carrer de Joan Gamper, 3",41.38677,2.13429,
+Pur,5.0,"Passatge de la Concepció, 11",41.394489,2.160065,
+Vino y Otros Remedios,5.0,"Carrer Sepulveda, 30",41.3761902,2.1533599,
+La Platilleria,5.0,"Carrer del Roser, 82",41.3715737817839,2.16545366682452,
+Amiette,5.0,"Carrer de Calabria, 65",41.377952,2.1570735,
+Tast-Ller [15 Loft],5.0,"Carrer d'Obradors, 15",41.37958,2.17736,
+Cerveseria Catalana,,"Carrer de Mallorca, 236, Barcelona, ES",,,4.4
+Ciutat Comtal,,"Rambla de Catalunya, 18, Barcelona, ES",,,4.2
+Arume,,"Carrer d'En Botella, 11, Barcelona, ES",,,4.6
+La Pepita,,"Carrer de Còrsega, 343, Barcelona, ES",,,4.6
+My Fucking Restaurant,,"Carrer Nou de la Rambla, 35, Barcelona, ES",,,4.4
+Casa Lolea,,"Carrer de Sant Pere Mes Alt, 49, Barcelona, ES",,,4.6
+Churrería Laietana,,"Via Laietana, 46, Barcelona, ES",,,4.8
+Micu Maku,,"Carrer d'Aribau, 22, Barcelona, ES",,,4.8
+Arcano,,"Carrer dels Mercaders, 10, Barcelona, ES",,,4.5
+Brunch & Cake,,"Carrer d'Enric Granados, 19, Barcelona, ES",,,4.2
+Billy Brunch,,"Carrer de Bailèn, 115, Barcelona, ES",,,4.8
+Somorrostro,,"Carrer de Sant Carles, 11, Barcelona, ES",,,4.4
+Tapeo,,"Carrer de Montcada, 29, Barcelona, ES",,,4.6
+TAPS,,"Carrer de Mare de Deu del Remei, 53, Barcelona, ES",,,4.9
+Milk Bar & Bistro,,"Carrer d'en Gignàs, 21, Barcelona, ES",,,4.5
+Cera 23,,"Carrer de la Cera, 23, Barcelona, ES",,,4.6
+Restaurant La Tasqueta de Blai,,"Carrer de Blai, 17, Barcelona, ES",,,4.5
+Hänsel,,"Carrer de Provença, 237, Barcelona, ES",,,4.5
+Cañete,,"Carrer de la Unió, 17, Barcelona, ES",,,4.6
+Vinitus,,"Carrer Del Consell de Cent, 333, Barcelona, ES",,,4.6
+Amarre 69,,"Paseo Juan de Borbón, 69, Barcelona, ES",,,4.6
+Guell,,"Calle Nou de la Rambla, 20, Barcelona, ES",,,4.5
+Disfrutar,,"Carrer de Villarroel, 163, Barcelona, ES",,,4.8
+El Asador de Aranda,,"Calle Pau Claris, 70, Barcelona, ES",,,4.7
+Citizen Café,,"Plaça d'Urquinaona, 4, Barcelona, ES",,,4.4
+La Catalista,,"Carrer dels Carders, 11, Barcelona, ES",,,5.0
+Paisano Bistró ,,"Carrer de Lepant, 277, Barcelona, ES",,,4.8
+Cremat 11,,"Carrer Cremat Gran, 11, Barcelona, ES",,,4.9
+La Taverneta,,"Carrer de Francesc Pujols, 6, Barcelona, ES",,,4.8
+Caravelle,,"Carrer del Pintor Fortuny, 31, Barcelona, ES",,,4.6
+Breik,,"Carrer dels Tallers, 72, Barcelona, ES",,,4.7
+Le Romane,,"Carrer de Muntaner, 103, Barcelona, ES",,,4.9
+EatMyTrip Brunch & Bakery Barcelona,,"Carrer del Consell de Cent, 378, Barcelona, ES",,,4.4
+Quimet & Quimet,,"Carrer del Poeta Cabanyes, 25, Barcelona, ES",,,4.6
+Chez Cocó,,"Avinguda Diagonal, 465, Barcelona, ES",,,4.5
+La Paradeta,,"Passatge de Simó, 18, Barcelona, ES",,,4.4
+Sucursal Aceitera,,"Carrer del Comte Borrell, 36, Barcelona, ES",,,4.9
+Tosca,,"Carrer de Sant Pere Més Alt, 8, Barcelona, ES",,,4.3
+Jansana,,"Carrer de Balmes, 106, Barcelona, ES",,,4.8
+Tucco Real Food Born,,"Carrer del Consolat de Mar, 23, Barcelona, ES",,,4.7
+Tickets,,"Avenida del Paral·lel, 164, Barcelona, ES",,,4.5
+La Flauta,,"Carrer d'Aribau, 23, Barcelona, ES",,,4.3
+El Pintxo de Petritxol,,"Carrer de Petritxol, 9, Barcelona, ES",,,4.2
+Bo de Boqueria,,"Carrer Petxina, 5-7, Barcelona, ES",,,4.6
+Vinitus Germà Petit,,"Carrer d'Aragó, 282, Barcelona, ES",,,4.8
+The Venue Steakhouse,,"Carrer del Rosselló, 365, Barcelona, ES",,,4.8
+Ugot Bruncherie,,"Carrer de Viladomat, 138, Barcelona, ES",,,4.6
+Federal,,"Passatge de la Pau, 11, Barcelona, ES",,,4.4
+Encercle,,"Carrer de Còrsega, 372, Barcelona, ES",,,4.8
+Bodega Biarritz 1881,,"Carrer del Vidre, 8, Barcelona, ES",,,4.4
